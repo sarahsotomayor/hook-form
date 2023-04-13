@@ -67,11 +67,11 @@ const UserForm = (props) => {
         </form>
         <section>
             <h2>Your Form Data</h2>
-            <p>First Name: {props.firstName}</p>
-            <p>Last Name: {props.lastName}</p>
-            <p>Email: {props.email}</p>
-            <p>Password: {props.password}</p>
-            <p>Confirm Password: {props.confirmPassword}</p>
+            <p>First Name: {firstName}</p>
+            <p>Last Name: {lastName}</p>
+            <p>Email: {email}</p>
+            <p>Password: {password}</p>
+            <p>Confirm Password: {confirmPassword}</p>
         </section>
         </div>
     );
