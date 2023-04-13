@@ -1,4 +1,4 @@
-## JavaScript Full Stack Bootcamp - Assignment #1 - Week 2
+## JavaScript Full Stack Bootcamp - Assignment #2 - Week 2
 
 * learned forms and conditional rendering
 
